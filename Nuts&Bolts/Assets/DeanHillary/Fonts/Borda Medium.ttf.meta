@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2fcfb1b36e07a7d4097783ae0561b868
+timeCreated: 1478909708
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Borda
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 698c067e4871fbb41a840942397e2cb2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

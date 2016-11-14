@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: e04452f55a8368e49a04c14bfd847d75
+timeCreated: 1478909728
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Borda
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f70a61b0475155c469ec35ec7e869a82, type: 3}
+  - {fileID: 12800000, guid: 2fcfb1b36e07a7d4097783ae0561b868, type: 3}
+  - {fileID: 12800000, guid: ef1b4fb874a39d441ba31b896aba9229, type: 3}
+  - {fileID: 12800000, guid: 2f3665c9c8c2063458b5b760c22bc34a, type: 3}
+  - {fileID: 12800000, guid: 5d9acfe9fb90b01498a8e762f90fb972, type: 3}
+  - {fileID: 12800000, guid: 698c067e4871fbb41a840942397e2cb2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
